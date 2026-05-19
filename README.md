@@ -164,7 +164,7 @@ CLOUDINARY_API_SECRET="your_api_secret"
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/vatsaljoshi1005/Odoo-hackathon-project.git
 cd traveloop
 ```
 
